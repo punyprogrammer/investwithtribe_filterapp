@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/investwithtribe_filterapp/static/css/main.f1ebf157.css",
+    "main.js": "/investwithtribe_filterapp/static/js/main.bf509357.js",
+    "index.html": "/investwithtribe_filterapp/index.html",
+    "main.f1ebf157.css.map": "/investwithtribe_filterapp/static/css/main.f1ebf157.css.map",
+    "main.bf509357.js.map": "/investwithtribe_filterapp/static/js/main.bf509357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1ebf157.css",
+    "static/js/main.bf509357.js"
+  ]
+}
